@@ -1,0 +1,26 @@
+{
+  "name": "full_backend_zero",
+  "version": "1.0.0",
+  "description": "fullstack backend zero",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamhoanghuy20001002/nodejs_BE.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "huy pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phamhoanghuy20001002/nodejs_BE/issues"
+  },
+  "homepage": "https://github.com/phamhoanghuy20001002/nodejs_BE#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
